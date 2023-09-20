@@ -1,0 +1,26 @@
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\GeradorCodigoBarras.exe.config
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.csprojResolveAssemblyReference.cache
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmConfiguracao.resources
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmImpressao.resources
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmPrincipal.resources
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.Properties.Resources.resources
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.csproj.GenerateResource.Cache
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\GeradorCodigoBarras.exe
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\GeradorCodigoBarras.pdb
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.exe
+c:\users\karyna morato\documents\visual studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.pdb
+C:\Users\Karyna Morato\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\Config.xml
+C:\Users\Karyna Morato\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmSobre.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\GeradorCodigoBarras.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\Config.xml
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\GeradorCodigoBarras.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\bin\Debug\GeradorCodigoBarras.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmConfiguracao.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmImpressao.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmPrincipal.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.frmSobre.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.Properties.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarras\obj\Debug\GeradorCodigoBarras.csprojResolveAssemblyReference.cache

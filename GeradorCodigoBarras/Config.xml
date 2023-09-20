@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <Valor>20</Valor>
+  <Sequencial>00000001</Sequencial>
+  <IP>192.168.0.16</IP>
+  <Porta>2000</Porta>
+  <Etiqueta></Etiqueta>
+</Config>

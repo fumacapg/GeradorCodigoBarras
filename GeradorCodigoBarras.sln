@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorCodigoBarras", "GeradorCodigoBarras\GeradorCodigoBarras.csproj", "{99665A9B-1386-4EB9-BB93-D151EF784A2E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GCBCSetup", "GCBCSetup\GCBCSetup.vdproj", "{7A43A11F-9AF7-49E0-B3B2-50A9094CAD00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorCodigoBarrasPrompt", "GeradorCodigoBarrasPrompt\GeradorCodigoBarrasPrompt.csproj", "{4B1932F3-6F28-4446-88CF-0939EE1429DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99665A9B-1386-4EB9-BB93-D151EF784A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99665A9B-1386-4EB9-BB93-D151EF784A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99665A9B-1386-4EB9-BB93-D151EF784A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99665A9B-1386-4EB9-BB93-D151EF784A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A43A11F-9AF7-49E0-B3B2-50A9094CAD00}.Debug|Any CPU.ActiveCfg = Debug
+		{7A43A11F-9AF7-49E0-B3B2-50A9094CAD00}.Release|Any CPU.ActiveCfg = Release
+		{4B1932F3-6F28-4446-88CF-0939EE1429DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1932F3-6F28-4446-88CF-0939EE1429DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1932F3-6F28-4446-88CF-0939EE1429DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1932F3-6F28-4446-88CF-0939EE1429DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

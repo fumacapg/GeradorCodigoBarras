@@ -1,0 +1,7 @@
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarrasPrompt\bin\Debug\GeradorCodigoBarrasPrompt.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarrasPrompt\bin\Debug\Config.xml
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarrasPrompt\bin\Debug\GeradorCodigoBarrasPrompt.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarrasPrompt\bin\Debug\GeradorCodigoBarrasPrompt.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarrasPrompt\obj\Debug\GeradorCodigoBarrasPrompt.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarrasPrompt\obj\Debug\GeradorCodigoBarrasPrompt.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\GeradorCodigoBarras\GeradorCodigoBarrasPrompt\obj\Debug\GeradorCodigoBarrasPrompt.pdb
